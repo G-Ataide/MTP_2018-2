@@ -1,4 +1,4 @@
-// P0.case
+// P0.c
 // Gabriel Cardoso Mendes de Ataide
 // 11811ECP008
 
