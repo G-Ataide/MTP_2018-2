@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <string.h>
 int main(){
   char bits_in[256]={0};
   char bits[256]={0};
@@ -29,9 +28,9 @@ int main(){
     }
   }
   if(estado==0 && i>=1){
-    printf("Multiplo");
+    printf("\"%s\" eh multiplo de 3",bits);
   }else if((estado==1 || estado==2) && i>=1){
-    printf("Nao Multiplo");
+    printf("\"%s\" nao eh multiplo",bits);
   }
 
 }
