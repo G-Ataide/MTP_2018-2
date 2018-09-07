@@ -32,5 +32,5 @@ int main(){
   }else if((estado==1 || estado==2) && i>=1){
     printf("\"%s\" nao eh multiplo",bits);
   }
-
+  return 0;
 }
