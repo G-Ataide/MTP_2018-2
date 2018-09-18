@@ -1,6 +1,6 @@
-// P0.c
-// Gabriel Cardoso Mendes de Ataide
-// 11811ECP008
+/* p0.c */
+/* Gabriel Cardoso Mendes de Ataide */
+/* 11811ECP008 */
 
 #include <stdio.h>
 int main(int argc, char ** argv){
