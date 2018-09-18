@@ -1,3 +1,7 @@
+/* p1.c */
+/* Gabriel Cardoso Mendes de Ataide */
+/* 11811ECP008 */
+
 #include <stdio.h>
 int main(){
   char bits_in[256]={0};
