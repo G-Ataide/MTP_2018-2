@@ -3,7 +3,6 @@
 /* 11811ECP008 */
 
 #include <stdio.h>
-// #include <math.h>
 
 int eleva(int base,int expoente){
 	int i, result=1;
@@ -50,9 +49,6 @@ int otc_to_dec(char oct[]){
   return dec;
 }
 
-
-
-
 int main(){
   unsigned int op,binario,hexa;
   scanf("%i",&op);
@@ -97,7 +93,6 @@ int main(){
 		char oct[256];
 		scanf("%s",oct);
 		printf("%i",otc_to_dec(oct));
-
   }else if(op==8){
 		//Decimal para Octal
 		int dec,oct[256],i;
