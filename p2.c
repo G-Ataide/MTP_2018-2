@@ -61,7 +61,7 @@ int main(){
 		//Binário para Hexadecimal
 		char bin[256];
 		scanf("%s",bin);
-		printf("%lX\n",bin_to_dec(bin));
+		printf("%X\n",bin_to_dec(bin));
   }else if(op==3){
 		//Hexadecimal para Decimal
 		scanf("%x", &hexa);
@@ -86,7 +86,7 @@ int main(){
 		//Decimal para Hexadecimal
 		int dec;
 		scanf("%i",&dec);
-		printf("%lX",dec);
+		printf("%X",dec);
   }else if(op==7){
 		//Octal para Decimal
 		int dec;
