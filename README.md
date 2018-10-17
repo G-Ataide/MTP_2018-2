@@ -16,3 +16,7 @@ Autômato Finito
 ## P2
 
 Conversor de Bases Numéricas
+
+## P3
+
+Conversão de String para Número (atoi)
