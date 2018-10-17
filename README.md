@@ -19,4 +19,4 @@ Conversor de Bases Numéricas
 
 ## P3
 
-Conversão de String para Número (atoi)
+Conversão de String para Número Inteiro (atoi)
