@@ -1,3 +1,6 @@
+/* p3.c */
+/* Gabriel Cardoso Mendes de Ataide */
+/* 11811ECP008 */
 #include <stdio.h>
 
 long long int eleva(int base, int expo){
