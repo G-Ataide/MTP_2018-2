@@ -20,3 +20,11 @@ Conversor de Bases Numéricas
 ## P3
 
 Conversão de String para Número Inteiro (atoi)
+
+## P4
+
+Função Ackermann recursiva
+
+## P5
+
+Gerando Números Aleatórios
